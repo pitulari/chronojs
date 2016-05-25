@@ -1,0 +1,18 @@
+{
+  "name": "chronojs",
+  "homepage": "https://github.com/pitulari/chronojs",
+  "description": "A timer for the web",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
