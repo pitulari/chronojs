@@ -1,4 +1,8 @@
-# chronojs
-A timer for the Web
+# chronojs - A javascript timer
+A javascript timer to create forward timers and countdowns with callback action.
 
-With this library you can create a forward  and countdown timers and add callbacks actions in each timer.
+In index.html you can find a simple examples of use.
+
+Feel free to use/modify this script.
+
+Requires jquery.
